@@ -3,14 +3,11 @@
 # author: tirthankar chakravarty
 # created: 8th december 2013
 # revised:
-<<<<<<< HEAD
 # dependencies: Rcpp, methods, 
 # comments: Right now the file is a whole lot of scaffolding and not 
 #   whole lot of code.
-=======
 # dependencies: Rcpp, testthat, 
 # comments:
->>>>>>> f47a3d337f92657f51dae982391218bea70b3d2a
 #====================================================================
 
 rm(list = ls())
