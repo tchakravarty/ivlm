@@ -1,4 +1,4 @@
 ivlm
 ====
 
-R port of the Stata package ivreg2.
+R port of the Stata ivreg2 package

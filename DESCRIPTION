@@ -1,0 +1,17 @@
+Package: ivlm
+Type: Package
+Title: R port of the Stata ivreg2 package 
+  http://ideas.repec.org/c/boc/bocode/s425401.html
+Version: 0.1.1
+Date: 2013-12-08
+Author: Tirthankar Chakravarty
+Maintainer: Tirthankar Chakravarty <tirthankar.chakravarty@gmail.com>
+Depends: R (>= 3.0.2)
+Suggests:
+URL: https://github.com/tchakravarty/ivlm
+Description: An R port of the ivreg2 package of Baum, Schaffer and Stillman
+The ivreg2 package provides an extensive set of estimation, inference and
+  utility routines for instrumental variables statistical models.
+  This package provides some of that functionality, and some functionality
+  which is not present in the ivreg2 package.
+License:  AGPL-3
