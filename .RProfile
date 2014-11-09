@@ -1,0 +1,12 @@
+#===============================================================================
+# purpose: profile file for the ivlm project
+# author: tirthankar chakravarty
+# created:
+# revised:
+# comments:
+# TODO:
+#===============================================================================
+
+library(Forumla)
+library(MASS)
+library(HMisc)
